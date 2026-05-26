@@ -37,6 +37,10 @@ The sky is the limit!
     the sort_token_ratio was the best fit for this project, as it focuses on whether the same words exist
    in both strings regardless of their order.
 
+## Sample Data
+- `sample_input.xlsx` — Example input file
+- `sample_output.xlsx` — Expected output after running the pipeline
+
   
 ## Work in Progress
 This project is actively being improved. Upcoming additions:
